@@ -147,7 +147,7 @@ Contact
 -------
 Created by Brayden Davis — feel free to reach out!
 
-GitHub: B1L4L4HM4D
+GitHub: https://github.com/B1L4L4HM4D
 
 Email: bdavis6458@hwdsb.on.ca
 
